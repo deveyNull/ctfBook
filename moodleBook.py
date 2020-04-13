@@ -68,7 +68,7 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                                     titleStripped = title.replace(' ', '')
                                     file1 = open(chapterName+"\\"+str(moduleCount)+"-"+titleStripped+".md","w")
                                     file1.write("# " + title+"\n")
-                                    file0.write("* ["+title+"]("+chapterNameFlip+"/"+str(moduleCount)+"-"+titleStripped+".md)\n")
+                                    file0.write("* ["+title+"]("+chapterName+"/"+str(moduleCount)+"-"+titleStripped+".md)\n")
                                 if child.tag == "content":
                                     text =child.text.encode('ascii', 'replace').decode("utf-8", "replace")
                                     file1.write(text)
