@@ -1,122 +1,92 @@
-# Summary
+# Table of contents
 
+* [Introduction](README.md)
 
-## Chapter_0
+## Chapter\_3
 
-* [Site Registration](Chapter_0/0-SiteRegistration.md)
+* [The Competitive Team](chapter_3/0-thecompetitiveteam.md)
+* [Jeopardy Style](chapter_3/1-jeopardystyle.md)
+* [Join the Team](chapter_3/2-jointheteam.md)
+* [What You Will Learn](chapter_3/3-whatyouwilllearn.md)
 
-## Chapter_1
+## Chapter\_5
 
-* [Secure Yourself Now](Chapter_1/0-SecureYourselfNow.md)
-* [Computer Related Health](Chapter_1/1-ComputerRelatedHealth.md)
-* [General Wellness](Chapter_1/2-GeneralWellness.md)
-* [Questions](Chapter_1/3-Questions.md)
-* [Why](Chapter_1/4-Why.md)
+* [Canonical Documents](chapter_5/0-canonicaldocuments.md)
+* [Linux and VMs IP](chapter_5/1-linuxandvmsip.md)
+* [Programming and Scripting IP](chapter_5/2-programmingandscriptingip.md)
 
-## Chapter_2
+## Chapter\_6
 
-* [Letter from the Author](Chapter_2/0-LetterfromtheAuthor.md)
-* [Why Security](Chapter_2/1-WhySecurity.md)
-* [Hoppers ](Chapter_2/2-Hoppers.md)
-* [ ROPpers](Chapter_2/3-ROPpers.md)
-* [Core Tenets](Chapter_2/4-CoreTenets.md)
-* [Legal](Chapter_2/5-Legal.md)
-* [Join Us](Chapter_2/6-JoinUs.md)
+* [CTF Meta](chapter_6/0-ctfmeta.md)
+* [File Forensics](chapter_6/1-fileforensics.md)
+* [Representing Data 1](chapter_6/2-representingdata1.md)
+* [Representing Data 2](chapter_6/3-representingdata2.md)
+* [File Carving 1](chapter_6/5-filecarving1.md)
+* [File Carving 2](chapter_6/6-filecarving2.md)
+* [File Carving 3](chapter_6/7-filecarving3.md)
+* [File Carving 4](chapter_6/8-filecarving4.md)
+* [File Carving 5](chapter_6/9-filecarving5.md)
+* [File Metadata](chapter_6/11-filemetadata.md)
+* [File Metadata 2](chapter_6/12-filemetadata2.md)
+* [Steganography 1](chapter_6/14-steganography1.md)
+* [Steganography 2](chapter_6/15-steganography2.md)
+* [Host Forensics](chapter_6/17-hostforensics.md)
+* [Host Forensics 1 IP](chapter_6/18-hostforensics1ip.md)
+* [Memory Forensics](chapter_6/20-memoryforensics.md)
+* [Memory Forensics IP](chapter_6/21-memoryforensicsip.md)
 
-## Chapter_3
+## Chapter\_7
 
-* [The Competitive Team](Chapter_3/0-TheCompetitiveTeam.md)
-* [Jeopardy Style](Chapter_3/1-JeopardyStyle.md)
-* [Join the Team](Chapter_3/2-JointheTeam.md)
-* [What You Will Learn](Chapter_3/3-WhatYouWillLearn.md)
+* [CTF Meta](chapter_7/0-ctfmeta.md)
+* [Network Forensics](chapter_7/1-networkforensics.md)
+* [Wireshark](chapter_7/2-wireshark.md)
+* [tShark](chapter_7/3-tshark.md)
+* [Networking RFCs 1](chapter_7/4-networkingrfcs1.md)
+* [Networking RFCs 2](chapter_7/5-networkingrfcs2.md)
+* [NetForensics 1](chapter_7/7-netforensics1.md)
+* [NetForensics 2](chapter_7/8-netforensics2.md)
+* [NetForensics 3](chapter_7/9-netforensics3.md)
+* [NetForensics 4](chapter_7/10-netforensics4.md)
+* [NetForensics 5](chapter_7/11-netforensics5.md)
+* [NetForensics 6](chapter_7/12-netforensics6.md)
+* [NetForensics 7](chapter_7/13-netforensics7.md)
 
-## Chapter_4
+## Chapter\_8
 
-* [This Shit is Hard](Chapter_4/0-ThisShitisHard.md)
-* [Hacker Attitude](Chapter_4/1-HackerAttitude.md)
-* [Hacker Ethic](Chapter_4/2-HackerEthic.md)
-* [RTFM](Chapter_4/3-RTFM.md)
-* [Questions](Chapter_4/4-Questions.md)
-* [Learning](Chapter_4/5-Learning.md)
-* [Brainwashing and Learning](Chapter_4/6-BrainwashingandLearning.md)
+* [CTF Meta](chapter_8/0-ctfmeta.md)
+* [Classical Ciphers](chapter_8/1-classicalciphers.md)
+* [Frequency Analysis](chapter_8/2-frequencyanalysis.md)
+* [Automated Frequency Analysis](chapter_8/3-automatedfrequencyanalysis.md)
+* [Index of Coincidence](chapter_8/4-indexofcoincidence.md)
+* [Caesar Ciphers and Substitution](chapter_8/5-caesarciphersandsubstitution.md)
+* [Vigenere Ciphers](chapter_8/6-vigenereciphers.md)
+* [Fun Ciphers](chapter_8/7-funciphers.md)
+* [Modern Cryptography](chapter_8/9-moderncryptography.md)
+* [Modern Crypto](chapter_8/10-moderncrypto.md)
+* [Passwords](chapter_8/11-passwords.md)
+* [Hashes](chapter_8/12-hashes.md)
+* [XOR](chapter_8/13-xor.md)
+* [RSA](chapter_8/14-rsa.md)
+* [Things You Shouldnt Try to Do](chapter_8/16-thingsyoushouldnttrytodo.md)
 
-## Chapter_5
+## Chapter\_9
 
-* [Canonical Documents](Chapter_5/0-CanonicalDocuments.md)
-* [Linux and VMs IP](Chapter_5/1-LinuxandVMsIP.md)
-* [Programming and Scripting IP](Chapter_5/2-ProgrammingandScriptingIP.md)
+* [CTF Meta IP](chapter_9/0-ctfmetaip.md)
+* [How Internet IP](chapter_9/1-howinternetip.md)
+* [How Website IP](chapter_9/2-howwebsiteip.md)
+* [Under the Hood](chapter_9/3-underthehood.md)
+* [SQL Injection](chapter_9/5-sqlinjection.md)
+* [Command Injection](chapter_9/6-commandinjection.md)
+* [Directory Traversal](chapter_9/7-directorytraversal.md)
+* [Cross Site Request Forgery](chapter_9/8-crosssiterequestforgery.md)
+* [Cross Site Scripting](chapter_9/9-crosssitescripting.md)
+* [Server Side Request Forgery](chapter_9/10-serversiderequestforgery.md)
 
-## Chapter_6
+## Chapter\_10
 
-* [CTF Meta](Chapter_6/0-CTFMeta.md)
-* [File Forensics](Chapter_6/1-FileForensics.md)
-* [Representing Data 1](Chapter_6/2-RepresentingData1.md)
-* [Representing Data 2](Chapter_6/3-RepresentingData2.md)
-* [File Carving 1](Chapter_6/5-FileCarving1.md)
-* [File Carving 2](Chapter_6/6-FileCarving2.md)
-* [File Carving 3](Chapter_6/7-FileCarving3.md)
-* [File Carving 4](Chapter_6/8-FileCarving4.md)
-* [File Carving 5](Chapter_6/9-FileCarving5.md)
-* [File Metadata](Chapter_6/11-FileMetadata.md)
-* [File Metadata 2](Chapter_6/12-FileMetadata2.md)
-* [Steganography 1](Chapter_6/14-Steganography1.md)
-* [Steganography 2](Chapter_6/15-Steganography2.md)
-* [Host Forensics](Chapter_6/17-HostForensics.md)
-* [ Host Forensics 1 IP ](Chapter_6/18-HostForensics1IP.md)
-* [Memory Forensics](Chapter_6/20-MemoryForensics.md)
-* [ Memory Forensics IP ](Chapter_6/21-MemoryForensicsIP.md)
+* [You Probably Wont Learn That Here IP](chapter_10/0-youprobablywontlearnthathereip.md)
 
-## Chapter_7
+## Chapter\_11
 
-* [CTF Meta ](Chapter_7/0-CTFMeta.md)
-* [Network Forensics](Chapter_7/1-NetworkForensics.md)
-* [Wireshark](Chapter_7/2-Wireshark.md)
-* [tShark](Chapter_7/3-tShark.md)
-* [Networking RFCs 1](Chapter_7/4-NetworkingRFCs1.md)
-* [Networking RFCs 2](Chapter_7/5-NetworkingRFCs2.md)
-* [NetForensics 1](Chapter_7/7-NetForensics1.md)
-* [NetForensics 2](Chapter_7/8-NetForensics2.md)
-* [NetForensics 3](Chapter_7/9-NetForensics3.md)
-* [NetForensics 4](Chapter_7/10-NetForensics4.md)
-* [NetForensics 5](Chapter_7/11-NetForensics5.md)
-* [NetForensics 6](Chapter_7/12-NetForensics6.md)
-* [NetForensics 7](Chapter_7/13-NetForensics7.md)
+* [Compete and Learn](chapter_11/0-competeandlearn.md)
 
-## Chapter_8
-
-* [CTF Meta ](Chapter_8/0-CTFMeta.md)
-* [Classical Ciphers](Chapter_8/1-ClassicalCiphers.md)
-* [Frequency Analysis](Chapter_8/2-FrequencyAnalysis.md)
-* [Automated Frequency Analysis](Chapter_8/3-AutomatedFrequencyAnalysis.md)
-* [Index of Coincidence](Chapter_8/4-IndexofCoincidence.md)
-* [Caesar Ciphers and Substitution](Chapter_8/5-CaesarCiphersandSubstitution.md)
-* [Vigenere Ciphers](Chapter_8/6-VigenereCiphers.md)
-* [Fun Ciphers](Chapter_8/7-FunCiphers.md)
-* [Modern Cryptography](Chapter_8/9-ModernCryptography.md)
-* [Modern Crypto](Chapter_8/10-ModernCrypto.md)
-* [Passwords](Chapter_8/11-Passwords.md)
-* [Hashes](Chapter_8/12-Hashes.md)
-* [XOR](Chapter_8/13-XOR.md)
-* [RSA](Chapter_8/14-RSA.md)
-* [Things You Shouldnt Try to Do](Chapter_8/16-ThingsYouShouldntTrytoDo.md)
-
-## Chapter_9
-
-* [CTF Meta IP](Chapter_9/0-CTFMetaIP.md)
-* [How Internet IP](Chapter_9/1-HowInternetIP.md)
-* [How Website IP ](Chapter_9/2-HowWebsiteIP.md)
-* [Under the Hood](Chapter_9/3-UndertheHood.md)
-* [SQL Injection](Chapter_9/5-SQLInjection.md)
-* [Command Injection](Chapter_9/6-CommandInjection.md)
-* [Directory Traversal](Chapter_9/7-DirectoryTraversal.md)
-* [Cross Site Request Forgery](Chapter_9/8-CrossSiteRequestForgery.md)
-* [Cross Site Scripting](Chapter_9/9-CrossSiteScripting.md)
-* [Server Side Request Forgery](Chapter_9/10-ServerSideRequestForgery.md)
-
-## Chapter_10
-
-* [You Probably Wont Learn That Here IP](Chapter_10/0-YouProbablyWontLearnThatHereIP.md)
-
-## Chapter_11
-
-* [Compete and Learn](Chapter_11/0-CompeteandLearn.md)
