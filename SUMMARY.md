@@ -1,11 +1,11 @@
 # Summary
 
 
-## ../ctfBook\Chapter_0
+## Chapter_0
 
 * [Site Registration](../Chapter_0/0-SiteRegistration.md)
 
-## ../ctfBook\Chapter_1
+## Chapter_1
 
 * [Secure Yourself Now](../Chapter_1/0-SecureYourselfNow.md)
 * [Computer Related Health](../Chapter_1/1-ComputerRelatedHealth.md)
@@ -13,7 +13,7 @@
 * [Questions](../Chapter_1/3-Questions.md)
 * [Why](../Chapter_1/4-Why.md)
 
-## ../ctfBook\Chapter_2
+## Chapter_2
 
 * [Letter from the Author](../Chapter_2/0-LetterfromtheAuthor.md)
 * [Why Security](../Chapter_2/1-WhySecurity.md)
@@ -23,14 +23,14 @@
 * [Legal](../Chapter_2/5-Legal.md)
 * [Join Us](../Chapter_2/6-JoinUs.md)
 
-## ../ctfBook\Chapter_3
+## Chapter_3
 
 * [The Competitive Team](../Chapter_3/0-TheCompetitiveTeam.md)
 * [Jeopardy Style](../Chapter_3/1-JeopardyStyle.md)
 * [Join the Team](../Chapter_3/2-JointheTeam.md)
 * [What You Will Learn](../Chapter_3/3-WhatYouWillLearn.md)
 
-## ../ctfBook\Chapter_4
+## Chapter_4
 
 * [This Shit is Hard](../Chapter_4/0-ThisShitisHard.md)
 * [Hacker Attitude](../Chapter_4/1-HackerAttitude.md)
@@ -40,13 +40,13 @@
 * [Learning](../Chapter_4/5-Learning.md)
 * [Brainwashing and Learning](../Chapter_4/6-BrainwashingandLearning.md)
 
-## ../ctfBook\Chapter_5
+## Chapter_5
 
 * [Canonical Documents](../Chapter_5/0-CanonicalDocuments.md)
 * [Linux and VMs IP](../Chapter_5/1-LinuxandVMsIP.md)
 * [Programming and Scripting IP](../Chapter_5/2-ProgrammingandScriptingIP.md)
 
-## ../ctfBook\Chapter_6
+## Chapter_6
 
 * [CTF Meta](../Chapter_6/0-CTFMeta.md)
 * [File Forensics](../Chapter_6/1-FileForensics.md)
@@ -66,7 +66,7 @@
 * [Memory Forensics](../Chapter_6/20-MemoryForensics.md)
 * [ Memory Forensics IP ](../Chapter_6/21-MemoryForensicsIP.md)
 
-## ../ctfBook\Chapter_7
+## Chapter_7
 
 * [CTF Meta ](../Chapter_7/0-CTFMeta.md)
 * [Network Forensics](../Chapter_7/1-NetworkForensics.md)
@@ -82,7 +82,7 @@
 * [NetForensics 6](../Chapter_7/12-NetForensics6.md)
 * [NetForensics 7](../Chapter_7/13-NetForensics7.md)
 
-## ../ctfBook\Chapter_8
+## Chapter_8
 
 * [CTF Meta ](../Chapter_8/0-CTFMeta.md)
 * [Classical Ciphers](../Chapter_8/1-ClassicalCiphers.md)
@@ -100,7 +100,7 @@
 * [RSA](../Chapter_8/14-RSA.md)
 * [Things You Shouldnt Try to Do](../Chapter_8/16-ThingsYouShouldntTrytoDo.md)
 
-## ../ctfBook\Chapter_9
+## Chapter_9
 
 * [CTF Meta IP](../Chapter_9/0-CTFMetaIP.md)
 * [How Internet IP](../Chapter_9/1-HowInternetIP.md)
@@ -113,10 +113,10 @@
 * [Cross Site Scripting](../Chapter_9/9-CrossSiteScripting.md)
 * [Server Side Request Forgery](../Chapter_9/10-ServerSideRequestForgery.md)
 
-## ../ctfBook\Chapter_10
+## Chapter_10
 
 * [You Probably Wont Learn That Here IP](../Chapter_10/0-YouProbablyWontLearnThatHereIP.md)
 
-## ../ctfBook\Chapter_11
+## Chapter_11
 
 * [Compete and Learn](../Chapter_11/0-CompeteandLearn.md)
