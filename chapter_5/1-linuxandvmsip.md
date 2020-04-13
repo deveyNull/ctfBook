@@ -1,4 +1,0 @@
-# Linux and VMs IP
-
-Validated from previous experience...
-

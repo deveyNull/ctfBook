@@ -10,7 +10,7 @@ if not os.path.exists(bookName):
 file0 = open(bookName+"\\SUMMARY.md","w")
 file0.write("# Summary\n\n")
 
-for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup-moodle2-course-6-intro_to_ctfs-20200401-1554-nu-nf"):
+for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup-moodle2-course-7-intro_to_ctfs-20200413-1615-nu-nf"):
     for filename in filenames:
         if filename == "moodle_backup.xml":
             #file1.write("[//]: # ("+os.path.join(dirname,filename)+")\n")
