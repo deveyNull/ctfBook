@@ -32,7 +32,7 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                         if a != newSection:
                             newSection = a
                             chapterName = "Chapter_"+str(chapterCount)
-                            chapterNameFlip = "../Chapter_"+str(chapterCount)
+                            chapterNameFlip = "../master/Chapter_"+str(chapterCount)
                             print(chapterName)
                             if not os.path.exists(chapterName):
                                 os.makedirs(chapterName)
