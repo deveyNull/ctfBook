@@ -1,6 +1,7 @@
 # SQL Injection
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=630)
+
 Read this: <https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/>
 
 1. What is SQL injection? What is a database injection other than SQL?

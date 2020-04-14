@@ -1,6 +1,7 @@
 # Passwords
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=618)
+
 Read this: <https://ssd.eff.org/en/module/creating-strong-passwords>
 
 Passwords are a normal part of life for us. But when you see them in a Capture the Flag, usually something fishy is going on. Remember what we said earlier about you not being able to beat math? When it comes to passwords, you won't beat math. If the password is short, or in a dictionary, you will break it. If it is not, you never will. 

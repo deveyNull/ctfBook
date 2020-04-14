@@ -1,6 +1,7 @@
 # Frequency Analysis
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=609)
+
 Read this: <https://www.dcode.fr/frequency-analysis>
 
 Use the tool to determine the frequency of characters, bigrams, and trigrams of the text: 

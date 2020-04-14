@@ -1,6 +1,7 @@
 # Cross Site Scripting
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=634)
+
 Read this: <https://ctf101.org/web-exploitation/cross-site-scripting/what-is-cross-site-scripting/>
 
 1. What is Cross Site Scripting or XSS?

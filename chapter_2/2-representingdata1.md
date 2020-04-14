@@ -1,6 +1,7 @@
 # Representing Data 1
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=570)
+
 * How do these ones and zeros work? <https://learn.sparkfun.com/tutorials/binary>
 * Also hey, what is hex? <https://learn.sparkfun.com/tutorials/hexadecimal>
 

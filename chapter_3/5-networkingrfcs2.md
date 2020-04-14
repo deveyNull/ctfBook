@@ -1,6 +1,7 @@
 # Networking RFCs 2
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=597)
+
 * Skim the DNS RFC to answer questions. I won't give you the RFC for this, go find it.
 
 1. What is the format of a DNS Resource Request (RR) datagram?

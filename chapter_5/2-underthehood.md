@@ -1,6 +1,7 @@
 # Under the Hood
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=628)
+
 I know someone on the internet is going to be upset I am recommending Chrome for this. Sorry. I like it. If you are used to using some other browser's Dev Tools, then you don't need to do this section.
 
 ## Chrome Developer Tools

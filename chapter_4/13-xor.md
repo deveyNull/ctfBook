@@ -1,6 +1,7 @@
 # XOR
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=620)
+
 Read this: <https://ctf101.org/cryptography/what-is-xor/>
 
 99.9% of the time you see an XOR problem in a CTF, you can solve it with something named xortool. There are also websites online that do the same thing, but will fail on larger texts.

@@ -1,6 +1,7 @@
 # What You Will Learn
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=554)
+
 There are a wide variety of skills required to succeed in a CTF competition.
 
 This course will attempt to teach you everything you need to know to start and take on any competition. 

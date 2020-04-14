@@ -1,6 +1,7 @@
 # Modern Crypto
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=617)
+
 Cryptography has come a long long way since the time of Caesar. Now, just about everything we do relies on math. Math, it turns out, is very hard to beat if it is done properly. Math can tell you that it is provably impossible for an attacker to decrypt something earlier than the heat death of the sun. That is pretty awesome. If you find yourself trying to beat math, you're probably attacking the wrong part of the problem. Learn about encryption below. 
 
 

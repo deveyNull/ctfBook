@@ -1,6 +1,7 @@
 # Index of Coincidence
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=611)
+
 Read this: <https://www.dcode.fr/index-coincidence>
 
 "Iuhtxhqfb dqdobvlv lv wkh vwxgb ri wkh glvwulexwlrq ri wkh ohwwhuv lq d whaw. Dqdobvlv ri iuhtxhqflhv khos ghfubswlqj vxevwlwxwlrq-edvhg flskhuv xvlqj wkh idfw wkdw vrph ohwwhuv dssdulwlrqv duh ydublqj lq d jlyhq odqjxdjh : lq hqjolvk, ohwwhuv H, W ru D duh frpprq zkloh C ru T duh uduh."

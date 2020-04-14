@@ -1,6 +1,7 @@
 # Hashes
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=619)
+
 ### Hashing and Salting
 
 Tasks:

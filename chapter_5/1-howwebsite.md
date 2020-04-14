@@ -1,6 +1,7 @@
 # How Website
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=627)
+
 We assume you already generally understand how the internet and websites work. If not, read these resources over. 
 
 * <https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work>

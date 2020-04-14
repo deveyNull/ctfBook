@@ -1,6 +1,7 @@
 # Programming and Scripting 
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=566)
+
 We are assuming you have some Python experience. 
 
 Much like the previous section, "experience" is a fairly amorphous concept. 

@@ -1,6 +1,7 @@
 # Join the Team
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=553)
+
 Request to join the Hopper's Roppers team on CTFtime. 
 
 <https://ctftime.org/team/104886>

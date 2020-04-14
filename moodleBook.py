@@ -31,8 +31,8 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                         a = child.text
                         if a != newSection:
                             newSection = a
-                            chapterName = "Chapter_"+str(chapterCount)
-                            chapterNameFlip = "../master/Chapter_"+str(chapterCount)
+                            chapterName = ("Chapter_"+str(chapterCount)).lower()
+                            chapterNameFlip = ("../master/Chapter_"+str(chapterCount)).lower()
                             print(chapterName)
                             if not os.path.exists(chapterName):
                                 os.makedirs(chapterName)
@@ -68,7 +68,7 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                                     titleStripped = title.replace(' ', '')
                                     file1 = open(chapterName+"\\"+str(moduleCount)+"-"+titleStripped+".md","w")
                                     file1.write("# " + title+"\n")
-                                    file1.write("\n[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n")
+                                    file1.write("\n[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n\n")
 
                                     file0.write("* ["+title+"]("+chapterName+"/"+str(moduleCount)+"-"+titleStripped+".md)\n")
                                 if child.tag == "content":

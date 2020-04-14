@@ -1,6 +1,7 @@
 # Basic Principles
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=564)
+
 ## Flag Format
 
 Most of the time the flag format will be an ASCII string that you discover during the course of the problem.

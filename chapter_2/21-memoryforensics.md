@@ -1,6 +1,7 @@
 # Memory Forensics
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=589)
+
 Memory forensics can be very simple, or very very hard. Luckily, some awesome folks made a tool named Volatility which makes the easy things very easy. 
 
 Using a combination of this CTFd site: <https://defcon2019.ctfd.io/challenges>

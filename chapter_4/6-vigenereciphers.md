@@ -1,6 +1,7 @@
 # Vigenere Ciphers
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=613)
+
 Read this: <https://www.boxentriq.com/code-breaking/vigenere-cipher>
 
 Solve using <https://www.dcode.fr/vigenere-cipher>

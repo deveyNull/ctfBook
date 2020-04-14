@@ -1,6 +1,7 @@
 # Representing Data 2
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=571)
+
 * Read this <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/lec.html>
 * Do the HW other than problem 9. <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/hw/hw.pdf>
 1. Submit pictures of the HW.

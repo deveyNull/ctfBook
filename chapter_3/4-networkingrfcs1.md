@@ -1,6 +1,7 @@
 # Networking RFCs 1
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=596)
+
 RFCs or Request for Comments, is the way that the internet develops standards. Read this to learn more: <https://www.lifewire.com/what-is-internet-request-for-comments-rfc-4092366> We talked about them a bit in the Representing Data section.
 
 Now the important thing is how to read an RFC.

@@ -1,6 +1,7 @@
 # File Metadata
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=579)
+
 What is metadata in the real world? <https://ssd.eff.org/en/module/why-metadata-matters>
 
 Usually we are thinking about in the context of communications, but files contain metadata as well. When it was created, where, by who... sometimes it even will tell you the type of machine. 

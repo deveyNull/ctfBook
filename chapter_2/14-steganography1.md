@@ -1,6 +1,7 @@
 # Steganography 1
 
 [Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=582)
+
 Steganography, or stego, challenges are among the most hated of all CTF challenges because they really are only limited in difficulty by how much of a pain in the ass the people who wrote the challenge are. No matter the challenge, if you've come across a picture that doesn't have anything useful in it or in the metadata and have spent far too long trying to figure out what it means, it is worthwhile to throw it into a few stego solvers you will download below. If it works, curse the person who made the challenge and continue working. If it doesn't work, you've exhausted one avenue and it's time to keep looking for something else.
 
 
