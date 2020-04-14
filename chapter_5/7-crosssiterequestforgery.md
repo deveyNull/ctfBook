@@ -1,6 +1,6 @@
 # Cross Site Request Forgery
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=633)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=633)
 
 Read this: <https://ctf101.org/web-exploitation/cross-site-request-forgery/what-is-cross-site-request-forgery/>
 
@@ -8,4 +8,4 @@ Read this: <https://ctf101.org/web-exploitation/cross-site-request-forgery/what-
 2. How does it work?
 
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=633)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=633)

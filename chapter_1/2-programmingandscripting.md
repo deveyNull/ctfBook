@@ -1,6 +1,6 @@
 # Programming and Scripting 
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=566)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=566)
 
 We are assuming you have some Python experience. 
 
@@ -11,4 +11,4 @@ To determine if you have enough Python experience, ask yourself if you are able 
 If you don't know Python (or another scripting language well), check out <https://www.codecademy.com/learn/learn-python>. It is Python2 (which is no longer actively maintained), but it is a wonderful course and will teach you everything you need to know about Python. The only difference is that print statements can look slightly different. You'll be fine. 
 
 Let me know if you have any questions. 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=566)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=566)

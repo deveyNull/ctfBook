@@ -1,6 +1,6 @@
 # Cross Site Scripting
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=634)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=634)
 
 Read this: <https://ctf101.org/web-exploitation/cross-site-scripting/what-is-cross-site-scripting/>
 
@@ -9,4 +9,4 @@ Read this: <https://ctf101.org/web-exploitation/cross-site-scripting/what-is-cro
 3. Why is the acronym XSS and not CSS? 
 
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=634)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=634)

@@ -1,6 +1,6 @@
 # Things You Shouldnt Try to Do
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=623)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=623)
 
 Remember what we said earlier about how math will win, every time? 
 
@@ -18,4 +18,4 @@ So moving on, if implemented properly (and the assumption for all standard libra
    * That something might just be a wordlist gathered from all words on a website/server/description
 4.  <https://en.wikipedia.org/wiki/Halting_problem>
 5. <https://en.wikipedia.org/wiki/P_versus_NP_problem>
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=623)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=623)

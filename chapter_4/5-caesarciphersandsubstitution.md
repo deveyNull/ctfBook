@@ -1,6 +1,6 @@
 # Caesar Ciphers and Substitution
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=612)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=612)
 
 ## Caesar 
 
@@ -32,4 +32,4 @@ JDS FGBOG YVACGJSLJ AJJAWF TAFSU CJ YBUUCQVS JB ZSZIWS UBTS VSJJSNU BX JDS AVYDA
 Don't forget to use frequency analysis. 
 
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=612)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=612)

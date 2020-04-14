@@ -1,6 +1,6 @@
 # How Website
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=627)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=627)
 
 We assume you already generally understand how the internet and websites work. If not, read these resources over. 
 
@@ -29,4 +29,4 @@ Play around with a few of these Google hacks on Exploit-DB:
 In order to prevent Google and other search engines from indexing a site, many sites use a robots.txt file to "block" the web crawlers. Robots.txt files are not actually part of an RFC yet, despite being an accepted part of the internet for years, but Google has recently proposed the Robots Exclusion Protocol as an official standard under Internet Engineering Task Force . Importantly, robots.txt are meant to be a good faith request by site administrators, and are regularly ignored by web crawlers. This means that any web crawler, or you, can visit a site's robots.txt and quickly identify any part of the site that the owner does not want crawled. 
 
 This often comes up in CTF problems, so it is always worth a quick check.
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=627)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=627)

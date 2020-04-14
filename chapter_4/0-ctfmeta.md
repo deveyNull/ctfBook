@@ -1,6 +1,6 @@
 # CTF Meta 
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=607)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=607)
 
 Cryptography is often considered to be one of the harder challenge types because many of the problems require deep specialization to understand. However, we are not teaching deep specialization in this course, we are teaching quick and dirty techniques to solve problems and find resources.
 
@@ -16,4 +16,4 @@ For the most part, you will always get enough ciphertext for meaningful statisti
 It is also unlikely that any problem is going to require extensive password cracking or bruteforcing. If you find yourself needing extreme computation, expect to have made a wrong turn somewhere.
 
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=607)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=607)

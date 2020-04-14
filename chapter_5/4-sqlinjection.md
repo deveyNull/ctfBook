@@ -1,6 +1,6 @@
 # SQL Injection
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=630)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=630)
 
 Read this: <https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/>
 
@@ -13,4 +13,4 @@ In advanced challenges, SQL injects can be incredibly complicated and take days 
 
 Relevant XKCD: <https://xkcd.com/327/>
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=630)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=630)

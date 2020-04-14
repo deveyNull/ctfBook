@@ -1,6 +1,6 @@
 # CTF Meta 
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=592)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=592)
 
 Forensics can include a number of elements mixed together such as:
 
@@ -20,4 +20,4 @@ When looking through a network challenges, there are a few basic types of challe
 These challenges often involve adding another level of work beyond the initial discovery of the communication, whether adding stego, encoding, encryption or a custom network protocol.
 
 The most important thing to do in the majority of these challenges is to identify the attacked host, the attacking host, and then find the channel in between.
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=592)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=592)

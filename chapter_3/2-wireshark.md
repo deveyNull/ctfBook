@@ -1,6 +1,6 @@
 # Wireshark
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=594)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=594)
 
 * What is a packet capture?
 
@@ -15,4 +15,4 @@ A packet capture is the recording of all information that goes across your netwo
 Wireshark is an amazing tool, install it in both your native Windows and your VM.
 
  
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=594)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=594)

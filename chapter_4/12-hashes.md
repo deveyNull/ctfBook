@@ -1,6 +1,6 @@
 # Hashes
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=619)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=619)
 
 ### Hashing and Salting
 
@@ -11,4 +11,4 @@ Tasks:
 * Describe each of the ways passwords are cracked
 * In 2-3 sentences, explain what salting does and why it is important.
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=619)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=619)

@@ -1,6 +1,6 @@
 # Command Injection
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=631)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=631)
 
 Read this: <https://ctf101.org/web-exploitation/command-injection/what-is-command-injection/>
 
@@ -12,4 +12,4 @@ Most command injects are Linux command line stuff, so the better you are with Li
 
 Relevant XKCD: <https://xkcd.com/327/>
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=631)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=631)

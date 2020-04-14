@@ -1,6 +1,6 @@
 # XOR
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=620)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=620)
 
 Read this: <https://ctf101.org/cryptography/what-is-xor/>
 
@@ -11,4 +11,4 @@ Follow this writeup and submit a screenshot of your solution: <http://mslc.ctf.s
 Follow this writeup and submit a screenshot of your solution: <https://github.com/AetherEternity/ctf-writeups/tree/master/hackyou2017/Decrypt>	
 
 					
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=620)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=620)

@@ -1,6 +1,6 @@
 # Representing Data 1
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=570)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=570)
 
 * How do these ones and zeros work? <https://learn.sparkfun.com/tutorials/binary>
 * Also hey, what is hex? <https://learn.sparkfun.com/tutorials/hexadecimal>
@@ -25,4 +25,4 @@ Any time you need to deal with a file format, google will provide most of the an
    4. What does "c2l4dHlmb3Vy" translate to from Base64?
 
 * It is annoying to do that by hand, but it does help. Here is a tool so that you never have to do that again. <https://gchq.github.io/CyberChef/>. Fun fact, it is released by GCHQ, Britain's version of the NSA. Great tool and very useful. There are about a thousand uses for this thing, you can find a bunch on GitHub.
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=570)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=570)

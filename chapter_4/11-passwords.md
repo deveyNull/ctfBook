@@ -1,6 +1,6 @@
 # Passwords
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=618)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=618)
 
 Read this: <https://ssd.eff.org/en/module/creating-strong-passwords>
 
@@ -16,4 +16,4 @@ Passwords are a normal part of life for us. But when you see them in a Capture t
 8. Read this and follow interesting links: <https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html>
 9. <https://xkcd.com/936/>
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=618)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=618)

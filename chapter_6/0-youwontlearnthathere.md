@@ -1,6 +1,6 @@
 # You Wont Learn That Here
 
-[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=638)
+[Check out our free CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=638)
 
 In a controversial move, I don't believe this is a beginner topic! I think it is a major shortcoming of the community that we pretend this is something beginners should be able to figure out by themselves. 
 
@@ -10,4 +10,4 @@ If you are angry at me for saying this, or have a better idea, let me know! Emai
 
 When I get around to writing an Advanced CTFs course I will have plenty of Reversing and BinEx... and a knowledge of C and Assembly will be non-negotiable pre-requisites. 
 
-[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=638)
+[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=638)
