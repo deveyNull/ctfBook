@@ -1,6 +1,7 @@
 # SQL Injection
 
-Read this: [https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/](https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/)
+[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=630)
+Read this: <https://ctf101.org/web-exploitation/sql-injection/what-is-sql-injection/>
 
 1. What is SQL injection? What is a database injection other than SQL?
 2. What are the different types of SQL injection?
@@ -9,5 +10,6 @@ As a helpful hint, 95% of SQL injects in basic challenges are as simple as pasti
 
 In advanced challenges, SQL injects can be incredibly complicated and take days to figure out how to exploit after you initially identify that the site is vulnerable.
 
-Relevant XKCD: [https://xkcd.com/327/](https://xkcd.com/327/)
+Relevant XKCD: <https://xkcd.com/327/>
 
+[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=630)

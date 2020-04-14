@@ -1,7 +1,10 @@
 # Cross Site Request Forgery
 
-Read this: [https://ctf101.org/web-exploitation/cross-site-request-forgery/what-is-cross-site-request-forgery/](https://ctf101.org/web-exploitation/cross-site-request-forgery/what-is-cross-site-request-forgery/)
+[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=633)
+Read this: <https://ctf101.org/web-exploitation/cross-site-request-forgery/what-is-cross-site-request-forgery/>
 
 1. What is Cross Site Request Forgery or CSRF?
 2. How does it work?
 
+
+[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=633)

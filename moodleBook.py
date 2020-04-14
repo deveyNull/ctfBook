@@ -68,14 +68,18 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                                     titleStripped = title.replace(' ', '')
                                     file1 = open(chapterName+"\\"+str(moduleCount)+"-"+titleStripped+".md","w")
                                     file1.write("# " + title+"\n")
+                                    file1.write("\n[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n")
+
                                     file0.write("* ["+title+"]("+chapterName+"/"+str(moduleCount)+"-"+titleStripped+".md)\n")
                                 if child.tag == "content":
                                     text =child.text.encode('ascii', 'replace').decode("utf-8", "replace")
                                     file1.write(text)
+                                    file1.write("\n[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n")
                                     break
                                 if child.tag == "intro" and out2 != "page.xml" and child.text != None:
                                     text = child.text.encode('ascii', 'replace').decode("utf-8", "replace")
                                     file1.write(text)
+                                    file1.write("\n[Vist the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n")
 
                                     break
 
