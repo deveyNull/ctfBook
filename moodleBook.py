@@ -10,7 +10,7 @@ if not os.path.exists(bookName):
 file0 = open(bookName+"\\SUMMARY.md","w")
 file0.write("# Summary\n\n")
 
-for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup-moodle2-course-7-intro_to_ctfs-20200413-1615-nu-nf"):
+for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup-moodle2-course-7-intro_to_ctfs-20200414-1145-nu-nf"):
     for filename in filenames:
         if filename == "moodle_backup.xml":
             #file1.write("[//]: # ("+os.path.join(dirname,filename)+")\n")
@@ -76,7 +76,8 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                                     file1.write(text)
                                     file1.write("\n[Visit the course page!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n")
                                     break
-                                if child.tag == "intro" and out2 != "page.xml" and child.text != None:
+                                if child.tag == "intro" and out2 != "page.xml" and out2!="label.xml" and child.text != None:
+
                                     text = child.text.encode('ascii', 'replace').decode("utf-8", "replace")
                                     file1.write(text)
                                     file1.write("\n[Visit the course page!](https://academy.hoppersroppers.org/mod/assign/view.php?id=" + b+")\n")
