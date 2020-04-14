@@ -1,93 +1,95 @@
-# Summary
+# Table of contents
 
+* [Introduction](README.md)
 
-## chapter_0
+## Our Team
 
-* [The Competitive Team](chapter_0/0-thecompetitiveteam.md)
-* [Jeopardy Style](chapter_0/1-jeopardystyle.md)
-* [Join the Team](chapter_0/2-jointheteam.md)
-* [What You Will Learn](chapter_0/3-whatyouwilllearn.md)
+* [The Competitive Team](our-team/0-thecompetitiveteam.md)
+* [Jeopardy Style](our-team/1-jeopardystyle.md)
+* [Join the Team](our-team/2-jointheteam.md)
+* [What You Will Learn](our-team/3-whatyouwilllearn.md)
 
-## chapter_1
+## CTF Basics <a id="ctfbasics"></a>
 
-* [Basic Principles](chapter_1/0-basicprinciples.md)
-* [Linux and VMs](chapter_1/1-linuxandvms.md)
-* [Programming and Scripting ](chapter_1/2-programmingandscripting.md)
+* [Basic Principles](ctfbasics/0-basicprinciples.md)
+* [Linux and VMs](ctfbasics/1-linuxandvms.md)
+* [Programming and Scripting](ctfbasics/2-programmingandscripting.md)
 
-## chapter_2
+## File Forensics <a id="fileforensics"></a>
 
-* [CTF Meta](chapter_2/0-ctfmeta.md)
-* [Representing Data 1](chapter_2/1-representingdata1.md)
-* [Representing Data 2](chapter_2/2-representingdata2.md)
-* [File Carving 1](chapter_2/4-filecarving1.md)
-* [File Carving 2](chapter_2/5-filecarving2.md)
-* [File Carving 3](chapter_2/6-filecarving3.md)
-* [File Carving 4](chapter_2/7-filecarving4.md)
-* [File Carving 5](chapter_2/8-filecarving5.md)
-* [File Metadata](chapter_2/10-filemetadata.md)
-* [File Metadata 2](chapter_2/11-filemetadata2.md)
-* [Steganography 1](chapter_2/13-steganography1.md)
-* [Steganography 2](chapter_2/14-steganography2.md)
-* [User Testimonial](chapter_2/17-usertestimonial.md)
+* [CTF Meta](fileforensics/0-ctfmeta.md)
+* [Representing Data 1](fileforensics/representing-data-1.md)
+* [Representing Data 2](fileforensics/representing-data-2.md)
+* [File Carving 1](fileforensics/file-carving-1.md)
+* [File Carving 2](fileforensics/file-carving-2.md)
+* [File Carving 3](fileforensics/file-carving-3.md)
+* [File Carving 4](fileforensics/file-carving-4.md)
+* [File Carving 5](fileforensics/file-carving-5.md)
+* [File Metadata](fileforensics/file-metadata.md)
+* [File Metadata 2](fileforensics/file-metadata-2.md)
+* [Steganography 1](fileforensics/steganography-1.md)
+* [Steganography 2](fileforensics/steganography-2.md)
+* [User Testimonial](fileforensics/user-testimonial.md)
 
-## chapter_3
+## Host Forensics <a id="hostforensics"></a>
 
-* [Host Forensics](chapter_3/0-hostforensics.md)
+* [Host Forensics](hostforensics/host-forensics.md)
 
-## chapter_4
+## Memory Forensics <a id="chapter_4"></a>
 
-* [Memory Forensics](chapter_4/0-memoryforensics.md)
+* [Memory Forensics](chapter_4/memory-forensics.md)
 
-## chapter_5
+## Network Forensics <a id="netforensics"></a>
 
-* [CTF Meta ](chapter_5/0-ctfmeta.md)
-* [Wireshark](chapter_5/1-wireshark.md)
-* [tShark](chapter_5/2-tshark.md)
-* [Networking RFCs 1](chapter_5/3-networkingrfcs1.md)
-* [Networking RFCs 2](chapter_5/4-networkingrfcs2.md)
-* [NetForensics 1](chapter_5/6-netforensics1.md)
-* [NetForensics 2](chapter_5/7-netforensics2.md)
-* [NetForensics 3](chapter_5/8-netforensics3.md)
-* [NetForensics 4](chapter_5/9-netforensics4.md)
-* [NetForensics 5](chapter_5/10-netforensics5.md)
-* [NetForensics 6](chapter_5/11-netforensics6.md)
-* [NetForensics 7](chapter_5/12-netforensics7.md)
+* [CTF Meta](netforensics/0-ctfmeta.md)
+* [Wireshark](netforensics/wireshark.md)
+* [tShark](netforensics/tshark.md)
+* [Networking RFCs 1](netforensics/networking-rfcs-1.md)
+* [Networking RFCs 2](netforensics/networking-rfcs-2.md)
+* [NetForensics 1](netforensics/netforensics-1.md)
+* [NetForensics 2](netforensics/netforensics-2.md)
+* [NetForensics 3](netforensics/netforensics-3.md)
+* [NetForensics 4](netforensics/netforensics-4.md)
+* [NetForensics 5](netforensics/netforensics-5.md)
+* [NetForensics 6](netforensics/netforensics-6.md)
+* [NetForensics 7](netforensics/netforensics-7.md)
 
-## chapter_6
+## Cryptography <a id="crypto"></a>
 
-* [CTF Meta ](chapter_6/0-ctfmeta.md)
-* [Classical Ciphers](chapter_6/1-classicalciphers.md)
-* [Frequency Analysis](chapter_6/2-frequencyanalysis.md)
-* [Automated Frequency Analysis](chapter_6/3-automatedfrequencyanalysis.md)
-* [Index of Coincidence](chapter_6/4-indexofcoincidence.md)
-* [Caesar Ciphers and Substitution](chapter_6/5-caesarciphersandsubstitution.md)
-* [Vigenere Ciphers](chapter_6/6-vigenereciphers.md)
-* [Fun Ciphers](chapter_6/7-funciphers.md)
-* [Modern Cryptography](chapter_6/9-moderncryptography.md)
-* [Modern Crypto](chapter_6/10-moderncrypto.md)
-* [Passwords](chapter_6/11-passwords.md)
-* [Hashes](chapter_6/12-hashes.md)
-* [XOR](chapter_6/13-xor.md)
-* [RSA](chapter_6/14-rsa.md)
-* [Things You Shouldnt Try to Do](chapter_6/16-thingsyoushouldnttrytodo.md)
+* [CTF Meta](crypto/ctf-meta.md)
+* [Classical Ciphers](crypto/classical-ciphers.md)
+* [Frequency Analysis](crypto/frequency-analysis.md)
+* [Automated Frequency Analysis](crypto/automated-frequency-analysis.md)
+* [Index of Coincidence](crypto/index-of-coincidence.md)
+* [Caesar Ciphers and Substitution](crypto/caesar-ciphers-and-substitution.md)
+* [Vigenere Ciphers](crypto/vigenere-ciphers.md)
+* [Fun Ciphers](crypto/fun-ciphers.md)
+* [Modern Cryptography](crypto/modern-cryptography.md)
+* [Modern Crypto](crypto/modern-crypto.md)
+* [Passwords](crypto/passwords.md)
+* [Hashes](crypto/hashes.md)
+* [XOR](crypto/xor.md)
+* [RSA](crypto/rsa.md)
+* [Things You Shouldnt Try to Do](crypto/things-you-shouldnt-try-to-do.md)
 
-## chapter_7
+## Web Exploitation <a id="webex"></a>
 
-* [CTF Meta](chapter_7/0-ctfmeta.md)
-* [How Website](chapter_7/1-howwebsite.md)
-* [Under the Hood](chapter_7/2-underthehood.md)
-* [SQL Injection](chapter_7/4-sqlinjection.md)
-* [Command Injection](chapter_7/5-commandinjection.md)
-* [Directory Traversal](chapter_7/6-directorytraversal.md)
-* [Cross Site Request Forgery](chapter_7/7-crosssiterequestforgery.md)
-* [Cross Site Scripting](chapter_7/8-crosssitescripting.md)
-* [Server Side Request Forgery](chapter_7/9-serversiderequestforgery.md)
+* [CTF Meta](webex/ctf-meta.md)
+* [How Website](webex/how-website.md)
+* [Under the Hood](webex/under-the-hood.md)
+* [SQL Injection](webex/sql-injection.md)
+* [Command Injection](webex/command-injection.md)
+* [Directory Traversal](webex/directory-traversal.md)
+* [Cross Site Request Forgery](webex/cross-site-request-forgery.md)
+* [Cross Site Scripting](webex/cross-site-scripting.md)
+* [Server Side Request Forgery](webex/server-side-request-forgery.md)
 
-## chapter_8
+## Reversing and Bin-Ex <a id="revnbinex"></a>
 
-* [You Wont Learn That Here](chapter_8/0-youwontlearnthathere.md)
+* [You Wont Learn That Here](revnbinex/you-wont-learn-that-here.md)
 
-## chapter_9
+## picoCTF
 
-* [Compete and Learn](chapter_9/0-competeandlearn.md)
-* [User Testimonial](chapter_9/2-usertestimonial.md)
+* [Compete and Learn](picoctf/compete-and-learn.md)
+* [User Testimonial](picoctf/user-testimonial.md)
+

@@ -1,12 +1,14 @@
 # Introduction
 
-I haven't actually written this yet, but I need to. Put in on the to do list!
+\[Hopper's Roppers\]\([https://www.hoppersroppers.org/training.html](https://www.hoppersroppers.org/training.html)\) is a website dedicated to providing the best training possible for students who are new to the field. One of the ways that we do this is through a series of free courses. 
 
-This site is generated from a Moodle course hosted at:
+We believe competition is the best way to build motivation and skills in our students, so we built a course to teach CTF basics, how to use essential tools, and common problem types to prepare our students to compete by themselves. Our goal is to teach the fundamentals so that when faced with challenges, in competition or the real world, our students understand the problem, know the resources they have available, and are able to solve it themselves.
 
-[https://academy.hoppersroppers.org/course/view.php?id=7](https://academy.hoppersroppers.org/course/view.php?id=7)
+This site is generated directly from our [Intro to CTF course](https://academy.hoppersroppers.org/course/view.php?id=7) using a [Python script](https://github.com/deveyNull/ctfBook/blob/master/moodleBook.py). All the material is available here, but in order to get the full benefits of our course we recommend registering so that we can track your progress, grade your submissions, and provide feedback and support when you need it.
 
-I wrote a Python script to parse it out of XML files into this format so it can be loaded onto GitBook. The script is located here:
+If you have any questions, hit us on Twitter [@hoppersroppers](https://twitter.com/HoppersRoppers).
 
-[https://github.com/deveyNull/ctfBook/blob/master/moodleBook.py](https://github.com/deveyNull/ctfBook/blob/master/moodleBook.py)
+If you have recommended changes or feedback, this is all available on GitHub for anyone to submit issues or pull requests. Thanks for the help!
+
+
 
