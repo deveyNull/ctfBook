@@ -32,11 +32,11 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                         if a != newSection:
                             newSection = a
                             chapterName = ("Chapter_"+str(chapterCount)).lower()
-                            chapterNameFlip = ("../master/Chapter_"+str(chapterCount)).lower()
                             print(chapterName)
+                            chapterNameFlip = ("../master/Chapter_"+str(chapterCount)).lower()
                             if not os.path.exists(chapterName):
                                 os.makedirs(chapterName)
-                            file0.write("\n## "+chapterName +"\n\n")
+                            file0.write("\n## "+chapterName.lower() +"\n\n")
 
                             chapterCount += 1
                             moduleCount = 0
@@ -70,7 +70,7 @@ for dirname, dirnames, filenames in os.walk("C:\\Users\\devey\\Downloads\\backup
                                     file1.write("# " + title+"\n")
                                     file1.write("\n[Check out our CTF Course!](https://academy.hoppersroppers.org/mod/page/view.php?id=" + b+")\n\n")
 
-                                    file0.write("* ["+title+"]("+chapterName+"/"+str(moduleCount)+"-"+titleStripped+".md)\n")
+                                    file0.write("* ["+title+"]("+chapterName.lower()+"/"+str(moduleCount)+"-"+titleStripped.lower()+".md)\n")
                                 if child.tag == "content":
                                     text =child.text.encode('ascii', 'replace').decode("utf-8", "replace")
                                     file1.write(text)
